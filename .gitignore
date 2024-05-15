@@ -19,3 +19,9 @@
 
 # Go workspace file
 go.work
+
+# Other Items
+notes.txt
+run.bat
+builds/
+build.bash
